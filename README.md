@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**mdfarhansadiqtalukdar/mdfarhansadiqtalukdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Md. Farhan Sadiq
 
 - 🔭 I’m currently working on Vehicle Speed Control System using Deep Reinforcement Learning
 - 🌱 I’m currently learning JavaScript, C++, Python
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 17101039@uap-bd.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
