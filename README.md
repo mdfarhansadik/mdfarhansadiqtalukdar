@@ -10,5 +10,7 @@ I'm Md. Farhan Sadiq
 - 📫 How to reach me: 17101039@uap-bd.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfarhansadiqtalukdar)](https://github.com/anuraghazra/github-readme-stats)
 
